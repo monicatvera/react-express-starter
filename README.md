@@ -1,5 +1,6 @@
 # React application with Express server
 
+[Tutorial](https://www.twilio.com/blog/configure-um-app-react-com-um-proxy-de-servidor-node-js)
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). Then an Express server was added in the `server` directory. The server is proxied via the `proxy` key in `package.json`.
 
 ## Using this project
